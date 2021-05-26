@@ -1,0 +1,74 @@
+﻿<html><body><table border = 1>
+<tr>
+<th>ITEM CODE</th>
+<th>ORGANIZATION CODE</th>
+<th>GL CLASS (CLOUD)</th>
+<th>STOCK TYPE (CLOUD)</th>
+<th>COMMODITY CLASS (CLOUD)</th>
+<th>VALID_FLAG</th>
+</tr>
+<tr>
+<td>F101C4C6A</td>
+<td>WESCOSA_TBU</td>
+<td></td>
+<td></td>
+<td></td>
+<td>0</td>
+</tr>
+<tr>
+<td>O123P5PH200002</td>
+<td>WESCOSA_TBU</td>
+<td></td>
+<td></td>
+<td></td>
+<td>0</td>
+</tr>
+<tr>
+<td>-SA1-</td>
+<td>WESCOSA_TBU</td>
+<td></td>
+<td></td>
+<td></td>
+<td>0</td>
+</tr>
+<tr>
+<td>-SA2-</td>
+<td>STEEL_CENTER</td>
+<td></td>
+<td></td>
+<td></td>
+<td>0</td>
+</tr>
+<tr>
+<td>-SA3-</td>
+<td>WESCOSA_TBU</td>
+<td></td>
+<td></td>
+<td></td>
+<td>0</td>
+</tr>
+<tr>
+<td>-SA4-</td>
+<td>WESCOSA_TBU</td>
+<td></td>
+<td></td>
+<td></td>
+<td>0</td>
+</tr>
+<tr>
+<td>-SA5-</td>
+<td>WESCOSA_TBU</td>
+<td></td>
+<td></td>
+<td></td>
+<td>0</td>
+</tr>
+<tr>
+<td>-SA6-</td>
+<td>WESCOSA_TBU</td>
+<td></td>
+<td></td>
+<td></td>
+<td>0</td>
+</tr>
+</table></body></html>
