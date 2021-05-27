@@ -81,7 +81,7 @@
     <ui:LogMessage DisplayName="Log message (close applications)" sap:VirtualizedContainerService.HintSize="484,91" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Trace" Message="[&quot;Closing applications...&quot;]" />
     <ui:UiElementExists DisplayName="Element Exists" Exists="[Chrome_Open]" sap:VirtualizedContainerService.HintSize="484,68" sap2010:WorkflowViewState.IdRef="UiElementExists_1">
       <ui:UiElementExists.Target>
-        <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="cb1093e5-4ed4-453b-984e-eaf43723305e" Selector="&lt;html app='chrome.exe' htmlwindowname='*' title='* - Oracle Applications' /&gt;" TimeoutMS="3000">
+        <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="cb1093e5-4ed4-453b-984e-eaf43723305e" Selector="&lt;html app='chrome.exe' htmlwindowname='*' omit:title='* - Oracle Applications' /&gt;" TimeoutMS="3000">
           <ui:Target.WaitForReady>
             <InArgument x:TypeArguments="ui:WaitForReady" />
           </ui:Target.WaitForReady>
